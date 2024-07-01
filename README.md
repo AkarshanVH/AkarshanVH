@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akarshan V H</h1>
-<h3 align="center">A passionate python project developer from India</h3>
+<h3 align="center">A passionate DevOps and AWS Cloud project developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshanvh&label=Profile%20views&color=0e75b6&style=flat" alt="akarshanvh" /> </p>
 
-- 🌱 I’m currently learning **Python ,Java, Android development**
+- 🌱 I’m currently learning **DevOps,AWS Cloud, Kubernetes, Jenkins's, Python ,C++, C**
 
-- 💬 Ask me about **Python , HTML, verilog HDL**
+- 💬 Ask me about **Python , AWS , verilog HDL**
 
 - 📫 How to reach me **akrshanpoojary@gmail.com**
 
